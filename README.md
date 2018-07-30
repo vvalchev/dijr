@@ -13,7 +13,7 @@ To use dijr you need two additional libraries:
 
 Basically to enable dijr for your web application you should add something like that in the section:
 
-```javascript
+```html
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
 <script type="text/javascript" src="https://raw.github.com/douglascrockford/JSON-js/master/json2.js"></script>
 <script type="text/javascript" src="dijr.js"></script>
